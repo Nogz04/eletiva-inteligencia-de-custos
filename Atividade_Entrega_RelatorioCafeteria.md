@@ -72,4 +72,4 @@ Nossa cafeteria está em um estágio muito saudável. Vendemos hoje **5.000 unid
 2.  **Quando vamos abrir a segunda loja?** Sugerimos expandir apenas quando nossa unidade atual atingir o limite de atendimento e não conseguirmos mais crescer aqui. Nossa meta é manter essa folga financeira sempre alta para investirmos com segurança.
 3.  **Foco na redução de custos de insumos:** Nosso lucro real por café é de R$ 2,78. Se conseguirmos economizar apenas **R$ 0,30** negociando melhor com fornecedores de leite ou grãos, nosso lucro mensal sobe **R$ 1.500,00** sem aumentarmos nossa carga horária.
 
-**Parecer Final:** Nosso negócio é bem robusto e já consolidade. Devemos focar agora em ganhar eficiência nos insumos e aumentar o movimento na loja atual para aproveitarmos ao máximo a diluição dos nossos custos fixos.
+**Parecer Final:** Nosso negócio é bem robusto e com um potêncial de crescimento alto. Mas, no momento devemos focar em ganhar eficiência nos insumos e aumentar o movimento na loja atual para aproveitarmos ao máximo a diluição dos nossos custos fixos.
